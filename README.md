@@ -1,8 +1,13 @@
 # AFC-Ajax
 
-git clone lien du repos
-bundle install --without production
-rails db:migrate db:seed
-rails s
+1- git clone lien du repos
+
+2- bundle install --without production
+
+3- rails db:migrate db:seed
+
+4- rails s
+
+
 Lien vers la version en production => https://ajaxemailviewer.herokuapp.com/
 
